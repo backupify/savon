@@ -1,5 +1,5 @@
 module Savon
 
-  VERSION = "1.2.0"
+  VERSION = "1.1.6"
 
 end
